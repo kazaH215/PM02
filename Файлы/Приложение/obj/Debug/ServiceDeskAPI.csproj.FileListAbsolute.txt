@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Notepad++\Практика Учебная2\прога\ServiceDeskAPI\obj\Debug\ServiceDeskAPI.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Notepad++\Практика Учебная2\прога\ServiceDeskAPI\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Notepad++\Практика Учебная2\прога\ServiceDeskAPI\obj\Debug\App.g.cs
+C:\Program Files (x86)\Notepad++\Практика Учебная2\прога\ServiceDeskAPI\obj\Debug\ServiceDeskAPI_MarkupCompile.cache
+C:\Program Files (x86)\Notepad++\Практика Учебная2\прога\ServiceDeskAPI\obj\Debug\ServiceDeskAPI_MarkupCompile.lref
